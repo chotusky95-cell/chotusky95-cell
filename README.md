@@ -118,7 +118,7 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chotusky95-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="chotusky95-cell's GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=chotusky95-cell&theme=tokyonight&hide_border=true" alt="chotusky95-cell's Streak" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chotusky95-cell&theme=tokyonight" alt="chotusky95-cell's Stats Summary" />
       </td>
     </tr>
     <tr>

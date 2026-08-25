@@ -109,31 +109,27 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats & Activity:
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=chotusky95-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="chotusky95-cell's GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chotusky95-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="chotusky95-cell's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chotusky95-cell&theme=tokyonight&hide_border=true" alt="chotusky95-cell's Streak" />
+        <img src="https://streak-stats.demolab.com?user=chotusky95-cell&theme=tokyonight&hide_border=true" alt="chotusky95-cell's Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chotusky95-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chotusky95-cell&theme=tokyonight" alt="Profile Summary Details" />
       </td>
     </tr>
   </table>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chotusky95-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </p>
-</div>
-
----
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chotusky95-cell&theme=tokyonight&no-frame=true&no-bg=false&margin_w=4" alt="GitHub Trophies" />
 </div>
 
 ---
